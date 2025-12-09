@@ -1,6 +1,5 @@
 # ICT_Lab_08
 This repo includes a Gym Website made with Flask.
-
 To run this website locally you have to follow a few steps:
 1) First install flask in your website files by using this command (pip install flask) 
 2) Also install uvicorn by using this command (pip install uvicorn)
